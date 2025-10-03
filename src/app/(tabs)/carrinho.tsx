@@ -3,7 +3,7 @@ import { router } from 'expo-router';
 
 export default function Carrinho(){
     function pagamento(){
-        router.navigate('/(tabs)/pagamento/7782498')
+        router.navigate('/(tabs)/pagamento/89764')
     }
     return(
         <View style={styles.container}>
